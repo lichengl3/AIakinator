@@ -4,9 +4,11 @@
 }
 
 .title-container {
+    display: flex;
     color: blue;
-    text-align: center;
+    justify-content: center;
     font-family: "Anta", sans-serif;
+    height: 10vh;
 }
 
 .image-and-prompts {
