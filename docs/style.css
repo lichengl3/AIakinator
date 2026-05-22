@@ -1,4 +1,13 @@
+@font-face {
+  font-family: "Anta";
+  src: url("fonts/Anta-Regular.ttf") format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
 #main-header {
     color:blue;
     text-align: center;
+    font-family: "Anta";
+    font-size: 30;
 }
