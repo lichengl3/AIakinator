@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Anta";
-  src: url("fonts/Anta-Regular.ttf") format("ttf");
+  src: url("fonts/Anta-Regular.ttf") format("truetype");
 }
 
 .title-container {
