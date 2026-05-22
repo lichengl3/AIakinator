@@ -4,7 +4,7 @@
 }
 
 #main-header {
-    display:flex;
+    display:block;
     color:blue;
     text-align: center;
     font-family: "Anta";
