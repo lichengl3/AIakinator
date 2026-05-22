@@ -1,13 +1,13 @@
 @font-face {
   font-family: "Anta";
-  src: url("/workspaces/AIakinator/docs/fonts/Anta-Regular.ttf") format("ttf");
+  src: url("") format("ttf");
 }
 
-.main-title {
-    display:flex;
-    color:blue;
+.title-container {
+    display: flex;
+    color: blue;
     text-align: center;
-    font-family: "Anta";
+    font-family: "Anta", sans-serif;
     font-size: 100;
 }
 
