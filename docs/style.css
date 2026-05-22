@@ -11,3 +11,9 @@
     font-family: "Anta";
     font-size: 30;
 }
+
+#akinator {
+  display: flex;
+  justify-self: center;
+  align-items:center;
+}

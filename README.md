@@ -1,1 +1,1 @@
-# AIakinator.github.io
+https://lichengl3.github.io/AIakinator/
