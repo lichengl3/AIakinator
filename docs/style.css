@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Anta";
-  src: url("fonts/Anta-Regular.ttf") format('woff2');
+  src: url("fonts/Anta-Regular.ttf") format("ttf");
   font-weight: normal;
   font-style: normal;
 }
