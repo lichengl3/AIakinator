@@ -3,7 +3,7 @@
   src: url("fonts/Anta-Regular.ttf") format("ttf");
 }
 
-#main-header {
+.main-title {
     display:block;
     color:blue;
     text-align: center;
@@ -11,8 +11,8 @@
     font-size: 30;
 }
 
-#akinator {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+.image-and-prompts {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
 }
