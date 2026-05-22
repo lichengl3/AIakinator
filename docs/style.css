@@ -13,5 +13,12 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: 1080px;
+}
+
+.montserrat-regular {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
 }
