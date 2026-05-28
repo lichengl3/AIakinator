@@ -27,9 +27,35 @@
   gap: 20px;
 }
 
-.montserrat-regular {
-  font-family: "Montserrat", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
+.chat-output {
+  width: 320px;
+  min-height: 260px;
+  max-height: 320px;
+  overflow-y: auto;
+  padding: 16px;
+  border: 2px solid #0057d9;
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.92);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  font-family: "Anta", sans-serif;
+  font-size: 16px;
+}
+
+.chat-message {
+  margin: 0 0 10px;
+  line-height: 1.5;
+}
+
+.chat-message.user {
+  color: #0a4d8c;
+  font-weight: 600;
+}
+
+.chat-message.assistant {
+  color: #1a5a14;
+}
+
+.chat-message.system {
+  color: #555;
+  font-style: italic;
 }
