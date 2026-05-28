@@ -18,6 +18,13 @@
   align-items: center;
   height: 90vh;
   margin: 0;
+  gap: 10px;
+}
+
+.prompts {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
 }
 
 .montserrat-regular {
